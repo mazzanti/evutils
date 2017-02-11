@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{A741662C-935B-45BC-8500-B2C229AD27C7}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="eVutils.exe">eVutils.bdsproj</Projects>
+      <Projects Name="Project3.exe">..\..\Borland Studio Projects\cubo\Project3.bdsproj</Projects>
+      <Projects Name="Targets">eVutils.exe Project3.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

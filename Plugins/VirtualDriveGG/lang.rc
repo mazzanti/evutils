@@ -1,0 +1,24 @@
+STRINGTABLE
+{
+1001, "Drive letter"
+1002, "Drive letter"
+1003, "VirtualDriveGG create a VirtualDrive starting by an existing folder. Choose a drive letter, choose a directory and click in the Create VirtualDrive button. The new drive will contains all files and folders like the folder selected."
+1004, "Create a VirtualDrive"
+1005, "Remove a VirtualDrive"
+1006, "Select folder"
+1007, "Create automatically with eVutils"
+1008, "Create a VirtualDrive"
+1009, "Remove a VirtualDrive"
+1010, "Hack drive letters"
+
+2001, "Lettera"
+2002, "Lettera"
+2003, "VirtualDriveGG consente di creare una unità virtuale a partire da una cartella esistente. È sufficiente scegliere una lettera di unità, selezionare la cartella che si desidera convertire in unità virtuale, quindi fare clic su Crea VirtualDrive."
+2004, "Crea VirtualDrive"
+2005, "Rimuovi VirtualDrive"
+2006, "Seleziona la cartella"
+2007, "Crea automaticamente con l'avvio di eVutils"
+2008, "Crea VirtualDrive"
+2009, "Rimuovi VirtualDrive"
+2010, "Forza lettere"
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2007/03/08 18.53.44.937.pas,U:\Progetti\Delphi\eVutils\FormWizard.pas=</Transaction>
+    <Transaction>2007/03/08 18.53.44.937.dfm,U:\Progetti\Delphi\eVutils\FormWizard.dfm=</Transaction>
+    <Transaction>2007/03/08 18.54.00.890.pas,U:\Progetti\Delphi\eVutils\Unit1.pas=U:\Progetti\Delphi\eVutils\FormWizard.pas</Transaction>
+    <Transaction>2007/03/08 18.54.00.890.dfm,U:\Progetti\Delphi\eVutils\Unit1.dfm=U:\Progetti\Delphi\eVutils\FormWizard.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

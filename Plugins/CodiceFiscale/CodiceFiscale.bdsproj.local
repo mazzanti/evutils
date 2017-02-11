@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/10/24 15.08.35.250.pas,Q:\Unit1.pas=Q:\plugins_src\CodiceFiscale\FormCodiceFiscale.pas</Transaction>
+    <Transaction>2006/10/24 15.08.35.250.dfm,Q:\Unit1.dfm=Q:\plugins_src\CodiceFiscale\FormCodiceFiscale.dfm</Transaction>
+    <Transaction>2006/10/24 15.08.42.296.bdsproj,Q:\Project1.bdsproj=Q:\plugins_src\CodiceFiscale\CodiceFiscale.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

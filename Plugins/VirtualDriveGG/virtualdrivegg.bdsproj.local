@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/10/19 14.44.37.453.pas,C:\Documents and Settings\evilstev3n\Documenti\Borland Studio Projects\Unit1.pas=U:\Progetti\Delphi\eVutilz\plugins_src\VirtualDriveGG\FMainVD.pas</Transaction>
+    <Transaction>2006/10/19 14.44.37.453.dfm,C:\Documents and Settings\evilstev3n\Documenti\Borland Studio Projects\Unit1.dfm=U:\Progetti\Delphi\eVutilz\plugins_src\VirtualDriveGG\FMainVD.dfm</Transaction>
+    <Transaction>2006/10/19 14.45.11.921.bdsproj,C:\Documents and Settings\evilstev3n\Documenti\Borland Studio Projects\Project1.bdsproj=U:\Progetti\Delphi\eVutilz\plugins_src\VirtualDriveGG\virtualdrivegg.bdsproj</Transaction>
+    <Transaction>2006/10/19 23.12.28.218.pas,Q:\plugins_src\VirtualDriveGG\Unit1.pas=Q:\plugins_src\Shared\evutilsLangM.pas</Transaction>
+    <Transaction>2006/10/19 23.14.44.265.pas,Q:\plugins_src\Shared\evutilsLangM.pas=</Transaction>
+    <Transaction>2006/10/19 23.48.41.765.pas,Q:\plugins_src\Shared\ResourceLocalizer.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

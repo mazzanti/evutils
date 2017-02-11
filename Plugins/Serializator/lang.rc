@@ -1,0 +1,24 @@
+STRINGTABLE
+{
+1001, "Search by number"
+1002, "Number"
+1003, "Method"
+1004, "Search"
+1005, "Search by name"
+1006, "Last name / Company name"
+1007, "Name"
+1008, "Locality"
+1009, "Method"
+1010, "Search"
+
+2001, "Cerca da numero"
+2002, "Numero."
+2003, "Metodo"
+2004, "Cerca"
+2005, "Cerca da nome"
+2006, "Cognome / Ragione sociale"
+2007, "Nome"
+2008, "Località"
+2009, "Metodo"
+2010, "Cerca"
+}

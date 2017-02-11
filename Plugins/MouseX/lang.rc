@@ -1,0 +1,28 @@
+STRINGTABLE
+{
+1001, "Time"
+1002, "&From now, in..."
+1003, "&At..."
+1004, "Action"
+1005, "&Shutdown"
+1006, "R&estart"
+1007, "Lo&g Off"
+1008, "S&tandby"
+1009, "&Remind me with an alert"
+1010, "G&o"
+1011, "&Cancel"
+1012, "Alert me before 10secs"
+
+2001, "Tempo"
+2002, "&Tra..."
+2003, "All'&ora..."
+2004, "Azione"
+2005, "S&pegni"
+2006, "&Riavvia"
+2007, "&Disconnetti"
+2008, "&Standby"
+2009, "Ricordamelo con un &messaggio"
+2010, "&Vai"
+2011, "&Annulla"
+2012, "Avvertimi prima di 10sec"
+}

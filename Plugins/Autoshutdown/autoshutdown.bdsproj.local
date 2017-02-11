@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/10/20 10.58.44.890.pas,C:\Documents and Settings\evilstev3n\Documenti\Borland Studio Projects\Unit1.pas=Q:\plugins_src\Autoshutdown\FormAutoShut.pas</Transaction>
+    <Transaction>2006/10/20 10.58.44.890.dfm,C:\Documents and Settings\evilstev3n\Documenti\Borland Studio Projects\Unit1.dfm=Q:\plugins_src\Autoshutdown\FormAutoShut.dfm</Transaction>
+    <Transaction>2006/10/20 10.59.05.062.bdsproj,C:\Documents and Settings\evilstev3n\Documenti\Borland Studio Projects\Project1.bdsproj=Q:\plugins_src\Autoshutdown\autoshutdown.bdsproj</Transaction>
+    <Transaction>2006/10/20 19.10.44.125.pas,Q:\plugins_src\Autoshutdown\Unit1.pas=Q:\plugins_src\Autoshutdown\MyExitWindows.pas</Transaction>
+    <Transaction>2006/10/20 19.14.46.593.pas,Q:\plugins_src\Autoshutdown\MyExitWindows.pas=Q:\plugins_src\Autoshutdown\WinShutty.pas</Transaction>
+    <Transaction>2006/10/24 00.34.19.234.pas,Q:\plugins_src\Autoshutdown\Unit1.pas=Q:\plugins_src\Autoshutdown\FormAlert.pas</Transaction>
+    <Transaction>2006/10/24 00.34.19.234.dfm,Q:\plugins_src\Autoshutdown\Unit1.dfm=Q:\plugins_src\Autoshutdown\FormAlert.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

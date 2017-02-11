@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/09/24 18.21.56.953.pas,C:\Documents and Settings\Marco\Documenti\Borland Studio Projects\Unit2.pas=C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\FormMain.pas</Transaction>
+    <Transaction>2006/09/24 18.21.56.953.dfm,C:\Documents and Settings\Marco\Documenti\Borland Studio Projects\Unit2.dfm=C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\FormMain.dfm</Transaction>
+    <Transaction>2006/09/24 18.22.09.218.bdsproj,C:\Documents and Settings\Marco\Documenti\Borland Studio Projects\Project2.bdsproj=C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\ScreenShotPlus.bdsproj</Transaction>
+    <Transaction>2006/09/29 00.38.02.453.pas,c:\programmi\borland\bds\4.0\source\Win32\vcl\StdCtrls.pas=</Transaction>
+    <Transaction>2006/09/29 01.17.55.328.pas,C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\StdCtrls.pas=</Transaction>
+    <Transaction>2006/09/29 01.17.55.328.pas,C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\controls.pas=</Transaction>
+    <Transaction>2006/09/29 01.17.55.343.pas,C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\Classes.pas=</Transaction>
+    <Transaction>2006/10/04 01.03.23.656.pas,C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\About.pas=</Transaction>
+    <Transaction>2006/10/04 01.03.23.671.dfm,C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\About.dfm=</Transaction>
+    <Transaction>2006/10/04 01.08.02.265.pas,C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\ABOUT.pas=</Transaction>
+    <Transaction>2006/10/04 01.08.02.265.dfm,C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShot+\ABOUT.dfm=</Transaction>
+    <Transaction>2007/02/16 21.11.47.671.pas,C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShotter+\lib\ijl.pas=</Transaction>
+    <Transaction>2007/02/16 21.11.48.468.pas,C:\Documents and Settings\Marco\Documenti\Delphi\EvUtils\Plugins\ScreenShotter+\lib\JPEG_IO.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

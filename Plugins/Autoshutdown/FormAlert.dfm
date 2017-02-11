@@ -1,0 +1,45 @@
+object FAlert: TFAlert
+  Left = 174
+  Top = 55
+  AlphaBlend = True
+  AlphaBlendValue = 0
+  BorderIcons = []
+  BorderStyle = bsDialog
+  Caption = 'FAlert'
+  ClientHeight = 58
+  ClientWidth = 484
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Button1: TButton
+    Left = 0
+    Top = 0
+    Width = 484
+    Height = 58
+    Align = alClient
+    Caption = 'STOP!'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -36
+    Font.Name = 'Verdana'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object blend: TTimer
+    Enabled = False
+    Interval = 300
+    OnTimer = blendTimer
+    Left = 32
+    Top = 28
+  end
+end

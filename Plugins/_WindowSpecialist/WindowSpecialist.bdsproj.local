@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/01/07 15.59.03.359.pas,C:\Documents and Settings\martin6\Documenti\Borland Studio Projects\Unit1.pas=Q:\plugins_src\WindowSpecialist\MainWS.pas</Transaction>
+    <Transaction>2007/01/07 15.59.03.359.dfm,C:\Documents and Settings\martin6\Documenti\Borland Studio Projects\Unit1.dfm=Q:\plugins_src\WindowSpecialist\MainWS.dfm</Transaction>
+    <Transaction>2007/01/07 15.59.10.359.bdsproj,C:\Documents and Settings\martin6\Documenti\Borland Studio Projects\Project1.bdsproj=Q:\plugins_src\WindowSpecialist\WindowSpecialist.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

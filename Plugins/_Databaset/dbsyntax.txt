@@ -1,0 +1,24 @@
+; le linee che iniziano con un punto e virgola sono da considerarsi commenti
+; servono solo all'essere umano, quindi verranno scartate dal database come se fossero linee vuote
+
+; la linea 4 è vuota e quindi verrà scartata dal database
+
+DBNOME
+; la prima linea non vuota da il nome al database. Quindi tutto ciò che precede una nuovalinea, un tab o uno spazio
+; è l'identificativo del nostro database.
+
+; il database si suddivide in elementi e sottoelementi
+; un elemento è ciò che risiede in una linea prima di un separatore o un newline ed è la nostra chiave unica
+; identificativo degli altri sottoelementi. E' consigliabile scriverlo tutto in maiuscolo e non sono utilizzabili
+; gli spazi.
+; come separatore preferisco il TAB, quindi
+
+ELEMENTO1
+; qui ho definito solo una chiave unica senza sottoelementi
+
+ELEMENTO1	
+; ho fatto la stessa cosa di prima, solo che prima di un newline ho messo un tab
+
+ELEMENTO1	sottoelementodi1
+; qui ho dichiarato il suo sottoelemento, non importa stare a guardare esteticamente il testo del database, il tab
+; in questo caso prende funzione di separatore.

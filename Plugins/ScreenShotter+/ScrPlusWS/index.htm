@@ -1,0 +1,14 @@
+<html>
+<head>
+<script language="JavaScript"><!--
+function refreshIt() {
+   if (!document.images) return;
+   document.images['screenshot'].src = '/screen.png?' + Math.random();
+   setTimeout('refreshIt()',2000);
+}
+//--></script>
+</head>
+<body onLoad=" setTimeout('refreshIt()',2000)">
+<img src="/screen.png" name="screenshot">
+</body>
+</html>

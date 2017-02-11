@@ -1,0 +1,5 @@
+PRESTITO
+
+; idcosa	achi	restituito
+FEAR	michele	no
+COLTELLO	suicida	si

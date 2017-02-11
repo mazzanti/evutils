@@ -1,0 +1,16 @@
+STRINGTABLE
+{
+1001, "no file - drag and drop the file here"
+1002, "Full path"
+1003, "Working Directory"
+1004, "Params"
+1005, "Modal"
+1006, "&Execute with params!"
+
+2001, "nessun file - trascina il file qua dentro"
+2002, "Path comppleto"
+2003, "Cartella di lavoro"
+2004, "Parametri"
+2005, "Modalità"
+2006, "&Esegui con parametri!"
+}

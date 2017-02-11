@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/01/29 22.58.14.312.pas,C:\Documents and Settings\martin6\Documenti\Borland Studio Projects\Unit1.pas=U:\Progetti\Delphi\eVutilz\plugins_src\Poppy\MainPoppy.pas</Transaction>
+    <Transaction>2007/01/29 22.58.14.312.dfm,C:\Documents and Settings\martin6\Documenti\Borland Studio Projects\Unit1.dfm=U:\Progetti\Delphi\eVutilz\plugins_src\Poppy\MainPoppy.dfm</Transaction>
+    <Transaction>2007/01/29 22.58.20.234.bdsproj,C:\Documents and Settings\martin6\Documenti\Borland Studio Projects\Project1.bdsproj=U:\Progetti\Delphi\eVutilz\plugins_src\Poppy\Poppy.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

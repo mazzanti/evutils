@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2006/11/01 01.57.48.093.pas,Q:\Unit1.pas=Q:\plugins_src\MiniWeb\FormMiniWeb.pas</Transaction>
+    <Transaction>2006/11/01 01.57.48.093.dfm,Q:\Unit1.dfm=Q:\plugins_src\MiniWeb\FormMiniWeb.dfm</Transaction>
+    <Transaction>2006/11/01 01.57.53.062.bdsproj,Q:\Project1.bdsproj=Q:\plugins_src\MiniWeb\MiniWeb.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

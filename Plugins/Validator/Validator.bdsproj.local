@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/10/24 18.22.11.265.pas,Q:\Unit1.pas=Q:\plugins_src\Validator\FormValidator.pas</Transaction>
+    <Transaction>2006/10/24 18.22.11.281.dfm,Q:\Unit1.dfm=Q:\plugins_src\Validator\FormValidator.dfm</Transaction>
+    <Transaction>2006/10/24 18.22.16.640.bdsproj,Q:\Project1.bdsproj=Q:\plugins_src\Validator\Validator.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

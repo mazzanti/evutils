@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/01/12 00.36.52.843.pas,C:\Documents and Settings\martin6\Documenti\Borland Studio Projects\Unit1.pas=U:\evdir.pas</Transaction>
+    <Transaction>2007/01/12 00.36.52.843.dfm,C:\Documents and Settings\martin6\Documenti\Borland Studio Projects\Unit1.dfm=U:\evdir.dfm</Transaction>
+    <Transaction>2007/01/12 00.37.33.765.bdsproj,C:\Documents and Settings\martin6\Documenti\Borland Studio Projects\Project1.bdsproj=U:\Progetti\Delphi\eVutilz\plugins_src\PKilla\evPKilla.bdsproj</Transaction>
+    <Transaction>2007/01/12 00.39.32.515.pas,U:\evdir.pas=U:\PKillaFunc.pas</Transaction>
+    <Transaction>2007/01/12 00.39.32.515.dfm,U:\evdir.dfm=U:\PKillaFunc.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,1 @@
+mostrare un form semitrasparente ancorabile ai lati dello schermo che visualizzi l'uptime del sistema

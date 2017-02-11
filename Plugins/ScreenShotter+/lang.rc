@@ -1,0 +1,36 @@
+STRINGTABLE
+{
+1001, "Scale"
+1002, "Scale %"
+1003, "Filter"
+1004, "Normal"
+1005, "Default Folder"
+1006, "Jpeg Quality"
+1007, "Bitmap Quality"
+1008, "Quality"
+1009, "Format"
+1010, "&Save"
+1011, "&Cancel"
+1012, "Software Sign"
+1013, "Enable"
+1014, "Save Full ScreenShot"
+1015, "Save Window's ScreenShot"
+
+
+2001, "Scala"
+2002, "Scala %"
+2003, "Filtro"
+2004, "Normale"
+2005, "Cartella Predefinita"
+2006, "Qualità Jpeg"
+2007, "Qualità Bitmap"
+2008, "Qualità"
+2009, "Formato"
+2010, "&Salva"
+2011, "&Annulla"
+2012, "Pubblicità"
+2013, "Abilita"
+2014, "Salvataggio ScreenShot Completo"
+2015, "Salvataggio ScreenShot Finestra"
+
+}

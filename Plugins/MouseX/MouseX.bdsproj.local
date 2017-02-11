@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/10/25 15.01.10.250.pas,Q:\Unit1.pas=Q:\plugins_src\MouseX\MouseX.pas</Transaction>
+    <Transaction>2006/10/25 15.01.10.250.dfm,Q:\Unit1.dfm=Q:\plugins_src\MouseX\MouseX.dfm</Transaction>
+    <Transaction>2006/10/25 15.01.31.968.pas,Q:\plugins_src\MouseX\MouseX.pas=Q:\plugins_src\MouseX\FormMouseX.pas</Transaction>
+    <Transaction>2006/10/25 15.01.31.968.dfm,Q:\plugins_src\MouseX\MouseX.dfm=Q:\plugins_src\MouseX\FormMouseX.dfm</Transaction>
+    <Transaction>2006/10/25 15.01.41.187.bdsproj,Q:\Project1.bdsproj=Q:\plugins_src\MouseX\MouseX.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

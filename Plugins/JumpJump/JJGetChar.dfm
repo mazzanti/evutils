@@ -1,0 +1,39 @@
+object FJJGetChar: TFJJGetChar
+  Left = 324
+  Top = 353
+  BorderStyle = bsToolWindow
+  Caption = 'Acquisisci tasto...'
+  ClientHeight = 74
+  ClientWidth = 349
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poOwnerFormCenter
+  OnHide = FormHide
+  OnKeyDown = FormKeyDown
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 0
+    Top = 0
+    Width = 349
+    Height = 74
+    Align = alClient
+    Alignment = taCenter
+    Caption = 'Label1'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    Layout = tlCenter
+    OnMouseDown = Label1MouseDown
+    ExplicitWidth = 41
+    ExplicitHeight = 18
+  end
+end

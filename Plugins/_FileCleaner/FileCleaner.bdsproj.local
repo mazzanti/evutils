@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2006/11/05 11.36.06.078.pas,Q:\Unit1.pas=Q:\plugins_src\FileCleaner\FormSettings.pas</Transaction>
+    <Transaction>2006/11/05 11.36.06.078.dfm,Q:\Unit1.dfm=Q:\plugins_src\FileCleaner\FormSettings.dfm</Transaction>
+    <Transaction>2006/11/05 11.36.15.171.bdsproj,Q:\Project1.bdsproj=Q:\plugins_src\FileCleaner\FileCleaner.bdsproj</Transaction>
+    <Transaction>2006/11/05 11.43.48.750.pas,Q:\plugins_src\FileCleaner\Unit1.pas=Q:\plugins_src\FileCleaner\CleanerFunctions.pas</Transaction>
+  </Transactions>
+</BorlandProject>
